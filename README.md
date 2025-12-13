@@ -45,14 +45,14 @@
 
 ### [Dev Environment Docs](https://github.com/Lfrangt/dev-environment-docs)
 
-A lightweight static documentation site for developer environment setup guides.
+Contributed to building a static documentation site for developer environment setup guides. Deployed on Microsoft Azure Static Web Apps.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure_Static_Web_Apps-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
-**Features:** Dark/Light theme • Responsive design • Zero dependencies
+**Contributions:** Project setup • Cloud deployment • Documentation
 
 [🔗 Live Demo](https://jolly-field-035345f1e.2.azurestaticapps.net/dev-environment.html)
 
