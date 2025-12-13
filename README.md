@@ -43,9 +43,22 @@
 <tr>
 <td width="50%">
 
+### [AgentCon Deep Research](https://github.com/IssamLaradji/agentcon_deep_research)
+
+Completed the **AgentCon Deep Research Workshop** (Dec 2025) — built a fully functional Deep Research Agent capable of web browsing and PDF parsing. Finished all 12 tasks in the workshop curriculum.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Agent-FF6F00?style=flat&logo=openai&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+**Skills Gained:** AI Agent Development • Deep Research • Web Scraping • PDF Parsing
+
+</td>
+<td width="50%">
+
 ### [Dev Environment Docs](https://github.com/Lfrangt/dev-environment-docs)
 
-Completed the **Contoso Pizza Workshop** — a hands-on training for building AI agents with Microsoft Azure AI Foundry. Successfully built and deployed the PizzaBot agent following the workshop curriculum.
+Completed the **Contoso Pizza Workshop** — a hands-on training for building AI agents with Microsoft Azure AI Foundry. Successfully built and deployed the PizzaBot agent.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
