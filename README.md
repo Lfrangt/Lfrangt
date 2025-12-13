@@ -53,6 +53,8 @@ Completed the **AgentCon Deep Research Workshop** (Dec 2025) — built a fully f
 
 **Skills Gained:** AI Agent Development • Deep Research • Web Scraping • PDF Parsing
 
+[🔗 Workshop Repo](https://github.com/IssamLaradji/agentcon_deep_research)
+
 </td>
 <td width="50%">
 
