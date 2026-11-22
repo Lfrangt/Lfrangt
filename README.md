@@ -1,6 +1,6 @@
 # Khalil Wu
 
-19 y/o builder. CS @ Langara. Vancouver.
+20 y/o builder. CS @ Langara. Vancouver.
 
 I like building small tools that become useful: AI agents, learning software, Apple Watch health experiments, and personal investing notes.
 
